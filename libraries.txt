@@ -1,0 +1,4 @@
+wolframalpha
+wit
+requests
+secure-smtplib
