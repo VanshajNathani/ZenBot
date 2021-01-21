@@ -1,0 +1,9 @@
+First install all the dependencies by running the InstallDependencies.bat file
+
+Paste the telegram API token in bot.py file.
+
+Run the bot.py file.
+
+Search for CollegeKhulwaDoYaarBot on telegram or simply paste this link in your browser t.me/CollegeKhulwaDoYaarBot
+
+Send your queries to the bot and wait for the bot to reply. 
