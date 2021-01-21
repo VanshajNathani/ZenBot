@@ -3,7 +3,7 @@ import requests
 import time
 import urllib
 from bas import body
-TOKEN = "1568255170:AAEmGqzD5fLkQC0OArGtrR5p5bpAbDNOZKg"
+TOKEN = <your token here>
 URL = "https://api.telegram.org/bot{}/".format(TOKEN)
 from bas import setReminder
 
