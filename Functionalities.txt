@@ -1,0 +1,35 @@
+ZenBot can do various functions and give outputs for a broad varieties of questions
+You can ask it about campus info, course(exchange program, branch change, scholarship, minor, credit system) related queries, club info, current time, weather info, jokes and much more is to be added.
+
+
+A few examples of sample inputs are shown below:
+
+01. What is the area of IIT Mandi Campus?
+02. What is the campus area of IIT Mandi?
+03. How many mess are there in IIT Mandi campus?
+04. How many hostels are there in IIT Mandi?
+05. What is exchange program?
+06. What is the credit system of IIT Mandi?
+07. What are the requirements of exchange program?
+08. How can I change my branch?
+09. What are the requirements of branch change?
+10. Which are the various clubs of IIT Mandi?
+11. Tell me something about Programming Club?
+12. What is biking/robotronics/yantrik/nirmaan Club?
+13. What is the time right now?
+13. What time is it right now?
+14. What is Minor Program?
+15. What is the importance of Minor?
+16. What is the weather of Mandi, Himachal Pradesh?
+17. Climate of Delhi
+18. What is class committee?
+19. What are the responsibilities of class committee?
+20. How does class committee work?
+21. Tell me a joke
+22. Tell me a physics joke?
+23. What is your name?
+24. Who are you?
+.
+.
+.
+and many more to come
